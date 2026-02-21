@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://vijayelectronic.github.io/best-camera-shop-near-me-unnao-electronics-Repair-Shop-Unnao/sitemap.xml
